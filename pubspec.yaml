@@ -1,0 +1,13 @@
+name: ai2_consensus_app
+description: Minimal app
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
